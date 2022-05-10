@@ -1,1 +1,3 @@
-##Be easy, on your thoughts.
+# Easy
+
+Be easy, on your thoughts.
